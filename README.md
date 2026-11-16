@@ -2,6 +2,10 @@
 
 A Python website monitoring dashboard and DevOps portfolio project. CloudPulse periodically checks multiple websites, records HTTP status and latency to SQLite, and displays a dashboard with health status, response time trends, and recent incidents.
 
+## Dashboard Preview
+
+![CloudPulse Monitoring Dashboard](Screenshot%202026-11-16%20130714.png)
+
 ## Features
 - Multiple websites configured using `MONITOR_URLS`
 - HTTP status checks, response time, and timeout/error detection
